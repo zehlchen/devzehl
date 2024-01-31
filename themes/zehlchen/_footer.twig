@@ -1,0 +1,15 @@
+{% set copyright_holder = pages['_theme'].meta.footer.copyright_holder ?? config.theme_config.footer.copyright_holder %}
+{% set show_copyright = pages['_theme'].meta.footer.show_copyright ?? config.theme_config.footer.show_copyright %}
+
+    </main>
+    <footer>
+      <a href="https://www.facebook.com/zehlchen" target="_blank" rel="noopener" class="fa fa-facebook"></a>
+      <a href="https://www.instagram.com/zehlchen/" target="_blank" rel="noopener" class="fa fa-instagram"></a>
+      <a href="https://www.github.com/zehlchen" target="_blank" rel="noopener" class="fa fa-github"></a>
+      <a href="https://www.twitter.com/zehlchen" target="_blank" rel="noopener" class="fa fa-twitter"></a>
+      <br />    
+      {% if show_copyright %}Copyright &copy; {{ 'now' | date('Y') }} {{ copyright_holder }}
+      {% endif %}
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,13 @@
+{% include '_header.twig' %}
+
+<article>
+  {# {% if meta.title %}
+    <h1>{{ meta.title }}</h1>
+  {% endif %} #}
+
+  {% if content %}
+    {{ content }}
+  {% endif %}
+</article>
+
+{% include '_footer.twig' %}
