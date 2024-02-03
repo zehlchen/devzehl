@@ -7,7 +7,6 @@ Template: index
 ---
 
 # Coffee, Cannabis, and Coding
-Frankly, all three together seems to be my Zen.
-
 ![Coffee, Cannabis, Coding](/assets/ccc.webp "Coffee, Cannabis, Coding")
 
+[https://www.leafly.com/strains/blue-gelato](Blue Gelato #41)
