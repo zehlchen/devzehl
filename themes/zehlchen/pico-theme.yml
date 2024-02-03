@@ -10,9 +10,9 @@ blog:
 
 header:
     nav_links:
-        home: %base_url%/
-        bio: %base_url%/?bio
-        coding: %base_url%/?code
+        main: %base_url%/
+        bio: %base_url%/bio
+        coding: %base_url%/code
     show_nav: true
     show_site_title: true
 
