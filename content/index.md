@@ -9,3 +9,5 @@ Template: index
 # Coffee, Cannabis, and Coding
 Frankly, all three together seems to be my Zen.
 
+![The Green Renaissance](/assets/weed.webp "The Gift")
+
