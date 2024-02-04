@@ -123,6 +123,12 @@ header {
   margin: 1em;
 }
 
+header h2 {
+  font-family: "t26-carbon", monospace;
+  font-size: 2rem;
+  font-weight: 700;
+}
+
 @media (min-width: 940px) {
   header {
     align-items: baseline;
