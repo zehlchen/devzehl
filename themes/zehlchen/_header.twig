@@ -38,9 +38,17 @@
 
       {% if nav_links and show_nav %}
         <nav>
-          {% for link_text, link_url in nav_links %}
+        <a href="https://zehl.dev/">main</a>&nbsp;|&nbsp;
+        <a href="https://zehl.dev/coffee">coffee</a>&nbsp;
+        <a href="https://zehl.dev/cannabis">cannabis</a>&nbsp;
+        <a href="https://zehl.dev/coding">coding</a>&nbsp;|&nbsp;
+        <a href="https://zehl.dev/blog">blog</a>&nbsp;
+        <a href="https://zehl.dev/bio">bio</a>&nbsp;
+        <a href="https://zehl.dev/skills">skills</a>
+
+          {# {% for link_text, link_url in nav_links %}
             <a href="{{ link_url|url }}">{{ link_text }}</a>
-          {% endfor %}
+          {% endfor %} #}
         </nav>
       {% endif %}
     </header>
