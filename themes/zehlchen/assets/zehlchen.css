@@ -25,12 +25,16 @@ html {
 body {
   background-color: var(--body-bg-color);
   color: var(--body-color);
-  font-family: "triplex-serif", serif;
-  font-weight: 300;
+  font-family: "bufalino", sans-serif;
+  font-weight: 500;
   font-style: normal;
   /* font-size: 1.25rem; */
   height: 100%;
   width: 100%;
+}
+
+body b {
+  font-weight: 700;
 }
 
 /* Blockquotes */
