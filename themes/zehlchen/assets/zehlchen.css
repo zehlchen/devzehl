@@ -26,7 +26,7 @@ body {
   background-color: var(--body-bg-color);
   color: var(--body-color);
   font-family: "aptly", sans-serif;
-  font-weight: 400;
+  font-weight: 300;
   font-style: normal;
   font-size: 1.25rem;
   height: 100%;
@@ -79,7 +79,7 @@ h4,
 h5,
 h6 {
   color: var(--heading-color);
-  font-family: "t26-carbon", monospace;
+  font-family: "aptly", sans-serif;
   font-weight: 700;
   font-style: normal;
 }
