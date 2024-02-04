@@ -6,9 +6,9 @@ Date: 2024-01-21
 Template: index
 ---
 
-# All About Zehl
-![Zehlchen](/assets/zehlchen.png "The Zehl")
-
+# ZEHL: The Biographic
+![Chase Zehl](/assets/chase.jpg "Chase Zehl")
+Perhaps this is my "residual self-image".
 
 ## Vital Statistics
   * **Name:** Jonathan Chase O'Byrne, Chase Zehl O'Byrne

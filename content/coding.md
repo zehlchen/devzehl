@@ -7,3 +7,4 @@ Template: index
 ---
 
 # Coding
+![Cannabis Circuit](/assets/leafy_circuit.webp "A Leafy Circuit")

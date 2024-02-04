@@ -7,4 +7,4 @@ Template: index
 ---
 
 # Coffee, Cannabis, and Coding
-![Coffee, Cannabis, Coding](/assets/ccc.webp "Coffee, Cannabis, Coding")
+![Coffee, Cannabis, Coding](/assets/papyrus.webp "Coffee, Cannabis, Coding")

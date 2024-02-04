@@ -7,6 +7,7 @@ Template: index
 ---
 
 # Cannabis (The Green Molecule)
+![Green Molecule](/assets/green_plant.webp "The Green Molecule")
 **I have never smoked cannabis (intentionally)!** There is a tool for every job, and getting high has never been easier!
 
 I roll with [Blue Gelato #41](https://www.leafly.com/strains/blue-gelato) for my flower 

@@ -5,6 +5,7 @@ Author: Chase Zehl O'Byrne
 Date: 2024-01-21
 Template: index
 ---
+
 # IT/Developer Experience
 My relationship with computers began in 1989 when I learned how to type on a QWERTY keyboard at the same time as
 I was learning the alphabet and how to read. My family purchased a computer in 1991 through a grant from the 
