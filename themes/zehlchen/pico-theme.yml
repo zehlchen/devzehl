@@ -11,8 +11,8 @@ blog:
 header:
     nav_links:
         main: %base_url%/
-        bio: %base_url%/bio
-        coding: %base_url%/code
+        biograf: %base_url%/bio
+        skills: %base_url%/skills
     show_nav: true
     show_site_title: true
 

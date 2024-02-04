@@ -1,5 +1,5 @@
 ---
-Title: Technical Skills & Profile
+Title: Technical Skills & Experience
 Description: A brief synopsis of my technical abilities.
 Author: Chase Zehl O'Byrne
 Date: 2024-01-21
