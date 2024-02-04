@@ -25,10 +25,10 @@ html {
 body {
   background-color: var(--body-bg-color);
   color: var(--body-color);
-  font-family: "bufalino", sans-serif;
-  font-weight: 500;
+  font-family: "futura-pt-condensed", sans-serif;
+  font-weight: 400;
   font-style: normal;
-  /* font-size: 1.25rem; */
+  font-size: 1.25rem;
   height: 100%;
   width: 100%;
 }
