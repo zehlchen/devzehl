@@ -20,7 +20,7 @@ and [Nine Pound Hammer](https://www.leafly.com/strains/9-pound-hammer) for my li
 **Use Case** | **Recommendation** | **Notes**
 :---: | :---: | ---
 Microdosing (Butane) | **[DynaVap](https://dynavap.com/)** M+ or Omni | Easy one-hit extractions with the Helix tip and x3 torch
-Socializing (Electric) **[Arizer](https://arizer.com/)** Air Max | More of a session vibe and "pass-it-around" kind of funky
+Socializing (Electric) | **[Arizer](https://arizer.com/)** Air Max | More of a session vibe and "pass-it-around" kind of funky
 Surreptitious (Battery) | **[Vessel](https://vesselbrand.com)** Expedition + | Slick, portable, discreet
 510 Cartridge Refill | **[PCKT Ceramic](https://pcktbrand.com/)** SPRK 3 | Works 100% of the time!
 
