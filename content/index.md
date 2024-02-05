@@ -1,5 +1,5 @@
 ---
-Title: Zehl Research Labs
+Title: Zehl
 Description: A chill place for coffee, cannabis, and coding.
 Author: "Chase Zehl O'Byrne"
 Date: 2024-01-26
