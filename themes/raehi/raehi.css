@@ -46,9 +46,11 @@ body b {
 
 .header {
   font-family: "t26-carbon", monospace;
+  line-height: 1.5rem;
   font-size: 2rem;
   font-weight: 700;
   font-style: normal;
+  text-align: right;
   grid-area: header;
 }
 
