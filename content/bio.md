@@ -7,8 +7,8 @@ Template: index
 ---
 
 # ZEHL: The Biographic
-There's really not much to it, folks.
-![A real picture of Chase Zehl O'Byrne](/assets/chase.jpg "A real picture of Chase Zehl O'Byrne")
+There's really not that much to it, folks...
+![A real picture of Chase Zehl O'Byrne](/assets/chase.jpg#left)
 
 ## Vital Statistics
   * **Name:** Jonathan Chase O'Byrne, Chase Zehl O'Byrne
