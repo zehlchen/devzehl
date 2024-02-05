@@ -1,37 +1,61 @@
 ---
-Title: Cannabis
-Description: The Green Molecule
+Title: Cannabis, the Green Molecule
+Description: The Green Molecule is THC, and it is plentiful and wonderful.
 Author: "Chase Zehl O'Byrne"
 Date: 2024-02-04
 Template: index
 ---
 
-# The Green Molecule
+# The Green Molecule (Cannabis)
 ![The Green Molecule](/assets/green_plant.webp "The Green Molecule")
 
-**I have never smoked cannabis (intentionally)!** There is a tool for every job, and getting high has never been easier!
+I have never *intentionally* smoked marijuana; I've only ever *accidentally* combusted it. Still, as a 
+responsible consumer, I don't relish the idea of wasting any of the precious cannabinoids, so as a matter
+of principle, naturally, I'll inhale it. Even though I find the smoke intrusive and obnoxious, it does
+serve as the occasional reminder that nothing worth perfecting should ever be taken for granted.
 
-I roll with [Blue Gelato #41](https://www.leafly.com/strains/blue-gelato) for my flower 
-and [Nine Pound Hammer](https://www.leafly.com/strains/9-pound-hammer) for my live resin. 
+## Calculating the Cost of THC
+To find out how much you are paying per gram of THC, multiply the total weight by the concentration percentage 
+of the measured THC and divide this by the price. Once you calculate this for the various methods of consumption
+(flower, resin, hash, edible, tincture), you can infer the least expensive way possible to enjoy yourself. I keep 
+a little spreadsheet with the latest prices from my dispensary so that I can compare them to the pricing of THC 
+in other parts of the world. After all, a penny saved is still a penny earned!
 
-**Use Case** | **Recommendation** | **Notes**
-:---: | :---: | ---
-Microdosing (Butane) | **[DynaVap](https://dynavap.com/)** M+ or Omni | Easy one-hit extractions with the Helix tip and x3 torch
-Socializing (Electric) | **[Arizer](https://arizer.com/)** Air Max | More of a session vibe and "pass-it-around" kind of funky
-Surreptitious (Battery) | **[Vessel](https://vesselbrand.com)** Expedition + | Slick, portable, discreet
-510 Cartridge Refill | **[PCKT Ceramic](https://pcktbrand.com/)** SPRK 3 | Works 100% of the time!
+## One-Hit Extraction with the VapCap
+A [VapCap](https://dynavap.com/) is a small elongated device (a hollowed-out cylinder 10 millimeters in diameter
+by 100 millimeters in length). On one end is a bowl accommodating up to 125 milligrams (by weight) of flower. A
+copper cap is placed over the bowl to protect the contents from a direct flame and is then heated (by conduction)
+with a soft or torch flame until the cap, which contains two slightly concave bi-metal discs, makes an audible
+click when it reaches 180 and 200 degrees Celsius, at which point the heat is immediately discontinued. The user
+then draws air through the cylinder to cool and finally complete the cycle. With the correct distribution of heat,
+and the requisite timing, one can achieve nirvana and inhale almost all the vaporized cannabinoids.
 
-## Microdosing for the Medicinal Practitioner
-You know there are a lot of reasons people use cannabis. While getting high is undeniably pleasant, the goal of having
-a healthy relationship with the Green Molecule is to promote wellness. I think as part of daily routine, cannabis can
-offer clear benefits that some traditional (pharmaceutical) medication cannot. And it's a hell of a lot cheaper.
+### Newbie-to-Newbie Advice
+I haven't been doing this for *years*, but I feel like I have a firm grasp on exactly what goes where and when. I
+have a few considerations, if I may:
+  1. The M+ gives a hotter hit than an Omni because of its short vapor path and increased condenser surface area.
+  2. The Armored Cap is Game Genie of the Dynaverse because it trivializes the heating process. Even more so when
+     using a multi-flame torch.
+  3. Clear out the vessel chamber quickly after each use to avoid the herb reabsorbing moisture and requiring
+     maintenance. 
+  4. Don't combust -- I mean, you will, but don't do it.
+  5. Unless you have a thermal imaging camera or laser thermometer, your guess with carryover heat is as good as 
+     mine. Still, I wouldn't dilly-dally ... once it's heated, take the hit!
+  6. The bowl has a serrated edge that allows for it to be used like a grinder and a straw.
 
-## Super-heated but not Combusted
-Enjoying the benefits of cannabis comes at some risk to those who would inhale its carcinogenic smoke. A better way to
-partake is using a dry-herb vaporizer or even a concentrated (albeit *processed*) formulation. Avoiding combustion is
-not always feasible, and for that I recommend quartz or glassware.
+I use an Omni condenser and stem with a Helix tip and the Armored cap. This is for sure the way to go for clean,
+smooth one hit wonders. Nothing flower-related hits as hard as a well-timed VapCap hit!
 
-## Keep It Simple, Stupid!
-I don't think a complicated regimen is needed. I think moderation is absolutely essential. I think using cannabis can
-teach responsibility and accountability, especially when it comes time to measure. Whatever you do, do it with excellence.
+## Keeping Your Tolerance Low: Tolerance Breaks
+I learned some valuable lessons on tolerance when I went from using high-potency 510-cartridges (86% THC) to 
+low-potency flower (19% THC): the former builds tolerance much faster than the latter. Since flower is the least-
+expensive form of THC in my jurisdiction, I have found that taking breaks every once in a while (abstaining) helps
+to reset the sensitivity to THC and other cannabinoids in the brain. This advice is directed mostly at those who
+consume at regular intervals for medicinal purposes.
 
+## The Session Vibe with Air Max
+The [Arizer Air Max](https://arizer.com/) is a 18650-battery powered electric ceramic heater that allows the user
+to heat a glass bowl ("stem") of flower to the user's desired temperature. There are several advantages to the
+Air Max that make it perfect for a session. It doesn't hit particularly hard, but the cumulative effect has a 
+creeping feeling to it. It has a nice weight to it with the battery in it, but sans the battery it feels very
+lightweight and unsubstantial. I didn't consider my options well enough before I made this my first vape purchase.
