@@ -45,6 +45,10 @@ body b {
 }
 
 .header {
+  font-family: "t26-carbon", monospace;
+  font-size: 2rem;
+  font-weight: 700;
+  font-style: normal;
   grid-area: header;
 }
 
@@ -63,6 +67,21 @@ body b {
 .footer {
   grid-area: footer;
 }
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--heading-color);
+  font-family: "aptly", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+
 
 /* Links */
 
