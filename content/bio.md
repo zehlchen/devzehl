@@ -1,14 +1,14 @@
 ---
-Title: Biography
-Description: Summary of useless information about the author.
+Title: Biographic
+Description: Summary of useless information about Zehlchen!
 Author: Chase Zehl O'Byrne
 Date: 2024-01-21
 Template: index
 ---
 
 # ZEHL: The Biographic
-![Chase Zehl](/assets/chase.jpg "Chase Zehl")
-Perhaps this is my "residual self-image".
+There's really not much to it, folks.
+![A real picture of Chase Zehl O'Byrne](/assets/chase.jpg "A real picture of Chase Zehl O'Byrne")
 
 ## Vital Statistics
   * **Name:** Jonathan Chase O'Byrne, Chase Zehl O'Byrne
