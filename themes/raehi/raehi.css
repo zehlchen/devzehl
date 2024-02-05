@@ -50,6 +50,7 @@ body b {
   font-weight: 700;
   font-style: normal;
   grid-area: header;
+  padding: 1em;
 }
 
 .leftSide {
