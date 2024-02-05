@@ -55,6 +55,7 @@ body b {
 
 .leftSide {
   grid-area: leftSide;
+  line-height: 1.5;
   font-size: 2rem;
   font-weight: 700;
   font-style: normal;
@@ -62,6 +63,7 @@ body b {
 }
 
 .body {
+  padding: 0.5em;
   grid-area: body;
 }
 
