@@ -16,6 +16,10 @@
   --post-list-border-color: #222;
 }
 
+img {
+  max-width: 50%;
+}
+
 img[src*='#left'] {
   float: left;
   padding: 1em;
