@@ -39,6 +39,22 @@ html {
   width: 100%;
 }
 
+blockquote {
+  color: var(--blockquote-color);
+  font-style: italic;
+}
+
+code,
+pre {
+  font-family: "adaptive-mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+  background-color: var(--code-bg-color);
+  border-radius: 0.2em;
+  color: var(--code-color);
+  /* font-size: 1rem; */
+}
+
 body {
   background-color: var(--body-bg-color);
   color: var(--body-color);
