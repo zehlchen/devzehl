@@ -132,7 +132,45 @@ h6 {
   font-style: normal;
 }
 
+@media only screen and (max-width: 768px) {
+  .layout {
+    grid:
+      "header" auto "body" 1fr "footer" auto / 1fr;
+  }
 
+  .header,
+  .leftSide,
+  .rightSide,
+  .footer {
+    grid-column: 1 / -1;
+  }
+
+  .leftSide,
+  .rightSide {
+    display: none;
+  }
+
+  .body {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+  }
+
+  img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 1.5em;
+  }
+
+}
 
 /* Links */
 
