@@ -1,65 +1,9 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<script type="text/javascript">
-			;
-(function (c, l, a, r, i, t, y) {
-c[a] = c[a] || function () {;
-(c[a].q = c[a].q || []).push(arguments)
-}
-t = l.createElement(r)
-t.async = 1
-t.src = 'https://www.clarity.ms/tag/' + i
-y = l.getElementsByTagName(r)[0]
-y.parentNode.insertBefore(t, y)
-})(window, document, 'clarity', 'script', 'kpyb5l7hvr')
-		</script>
-		<script>
-			function toggleMenu() {
-var leftSide = document.querySelector('.leftSide');
-var body = document.querySelector('.body');
-leftSide.classList.toggle('active');
-body.classList.toggle('shifted');
-}
-		</script>
+{% include '_header.twig' %}
 
-		<link rel="icon" type="image/png" href="/assets/the_z_logo.png"/>
-		<link rel="stylesheet" href="{{ theme_url }}/raehi.css" type="text/css"/>
+<div class="body">
+	{% if content %}
+		{{ content }}
+	{% endif %}
+</div>
 
-		<title>{{ meta.title }}
-			|
-			{{ site_title }}</title>
-	</head>
-	<section class="layout">
-		<div class="header">zehl.dev
-			<span class="menu-icon" onclick="toggleMenu()">&#9776;X</span>
-		</div>
-		<div class="leftSide">
-			<a href="https://zehl.dev/">main</a><br/>
-			// content<br/>
-			<a href="https://zehl.dev/coffee">coffee</a><br/>
-			<a href="https://zehl.dev/cannabis">cannabis</a><br/>
-			<a href="https://zehl.dev/coding">coding</a><br/>
-			// meta<br/>
-			<a href="https://zehl.dev/blog">blog</a><br/>
-			<a href="https://zehl.dev/bio">bio</a><br/>
-			<a href="https://zehl.dev/skills">skills</a><br/>
-		</div>
-		<div class="body">
-			{% if content %}
-				{{ content }}
-			{% endif %}
-		</div>
-		<div class="rightSide">
-			<a href="https://www.facebook.com/zehlchen" target="_blank" rel="noopener" class="fa fa-facebook"></a><br/>
-			<a href="https://www.instagram.com/zehlchen/" target="_blank" rel="noopener" class="fa fa-instagram"></a><br/>
-			<a href="https://www.github.com/zehlchen" target="_blank" rel="noopener" class="fa fa-github"></a><br/>
-			<a href="https://www.twitter.com/zehlchen" target="_blank" rel="noopener" class="fa fa-twitter"></a><br/>
-		</div>
-		<div class="footer">
-			<a href="https://github.com/zehlchen/devzehl">Source</a>.&nbsp;Copyright &copy; 2024
-			<a href="mailto:zehl@live.com">Chase Zehl O'Byrne</a>
-		</div>
-	</section>
-</html>
+{% include '_footer.twig' %}
