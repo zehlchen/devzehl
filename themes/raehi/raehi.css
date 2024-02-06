@@ -145,7 +145,24 @@ h6 {
     grid-column: 1 / -1;
   }
 
-  .leftSide,
+  .leftSide {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 250px;
+    /* Adjust as needed */
+    overflow-x: hidden;
+    transition: 0.5s;
+    /* Smooth transition */
+    background-color: #111;
+    /* Adjust as needed */
+    padding-top: 60px;
+    /* Adjust as needed */
+  }
+
   .rightSide {
     display: none;
   }
@@ -202,4 +219,10 @@ a:hover {
 
 .fa:hover {
   opacity: 0.7;
+}
+
+.menu-icon {
+  font-size: 30px;
+  cursor: pointer;
+  display: none;
 }

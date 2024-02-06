@@ -15,6 +15,14 @@ y = l.getElementsByTagName(r)[0]
 y.parentNode.insertBefore(t, y)
 })(window, document, 'clarity', 'script', 'kpyb5l7hvr')
 		</script>
+		<script>
+			function toggleMenu() {
+var leftSide = document.querySelector('.leftSide');
+var body = document.querySelector('.body');
+leftSide.classList.toggle('active');
+body.classList.toggle('shifted');
+}
+		</script>
 
 		<link rel="icon" type="image/png" href="/assets/the_z_logo.png"/>
 		<link rel="stylesheet" href="{{ theme_url }}/raehi.css" type="text/css"/>
@@ -24,18 +32,20 @@ y.parentNode.insertBefore(t, y)
 			{{ site_title }}</title>
 	</head>
 	<section class="layout">
-		<div class="header">zehl.dev</div>
+		<div class="header">zehl.dev
+			<span class="menu-icon" onclick="toggleMenu()">&#9776;</span>
+		</div>
 		<div class="leftSide">
 			<a href="https://zehl.dev/">main</a><br/>
-			<br/>
+			//<br/>
 			<a href="https://zehl.dev/coffee">coffee</a><br/>
 			<a href="https://zehl.dev/cannabis">cannabis</a><br/>
 			<a href="https://zehl.dev/coding">coding</a><br/>
-			<br/>
+			//<br/>
 			<a href="https://zehl.dev/blog">blog</a><br/>
 			<a href="https://zehl.dev/bio">bio</a><br/>
 			<a href="https://zehl.dev/skills">skills</a><br/>
-			<br/>
+			//<br/>
 		</div>
 		<div class="body">
 			{% if content %}
