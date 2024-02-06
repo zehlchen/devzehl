@@ -16,6 +16,24 @@
   --post-list-border-color: #222;
 }
 
+img[src*='#left'] {
+  float: left;
+  padding: 1em;
+  margin: auto
+}
+
+img[src*='#right'] {
+  float: right;
+  padding: 1em;
+  margin: auto;
+}
+
+img[src*='#center'] {
+  display: block;
+  margin: auto;
+  padding: 1em;
+}
+
 html {
   height: 100%;
   width: 100%;
@@ -68,10 +86,12 @@ body b {
 
 .rightSide {
   grid-area: rightSide;
+  width: 20%;
 }
 
 .footer {
   grid-area: footer;
+  text-align: center;
 }
 
 
