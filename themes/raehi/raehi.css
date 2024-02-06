@@ -134,42 +134,22 @@ h6 {
 
 @media only screen and (max-width: 768px) {
   .layout {
-    grid:
-      "header" auto "body" 1fr "footer" auto / 1fr;
+    grid-template-areas:
+      "header"
+      "leftSide"
+      "body"
+      "rightSide"
+      "footer";
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
   }
 
   .header,
   .leftSide,
+  .body,
   .rightSide,
   .footer {
     grid-column: 1 / -1;
-  }
-
-  .leftSide {
-    display: none;
-    position: fixed;
-    z-index: 1;
-    left: 0;
-    top: 0;
-    height: 100%;
-    width: 250px;
-    /* Adjust as needed */
-    overflow-x: hidden;
-    transition: 0.5s;
-    /* Smooth transition */
-    background-color: #111;
-    /* Adjust as needed */
-    padding-top: 60px;
-    /* Adjust as needed */
-  }
-
-  .rightSide {
-    display: none;
-  }
-
-  .body {
-    margin-left: 0.5em;
-    margin-right: 0.5em;
   }
 
   img {
@@ -185,8 +165,28 @@ h6 {
   h5,
   h6 {
     font-size: 1.5em;
+    /* Adjust font size as needed */
   }
 
+  .leftSide,
+  .rightSide {
+    /* Optional: Adjust text alignment if needed */
+    text-align: left;
+  }
+
+  body {
+    font-size: 1rem;
+    /* Adjust font size for readability */
+    padding: 5px;
+    /* Add some padding around the content */
+  }
+
+  .fa {
+    /* Adjust the size of font-awesome icons if needed */
+    font-size: 24px;
+    width: 40px;
+    padding: 10px;
+  }
 }
 
 /* Links */
