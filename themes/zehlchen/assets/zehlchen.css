@@ -17,12 +17,14 @@
 
 img[src*='#left'] {
   float: left;
+  width: 50%;
   padding: 1em;
   margin: auto
 }
 
 img[src*='#right'] {
   float: right;
+  width: 50%;
   padding: 1em;
   margin: auto;
 }
