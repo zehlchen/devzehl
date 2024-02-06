@@ -9,4 +9,4 @@ Template: index
 # Coffee, Cannabis, and Coding
 ![Coffee, Cannabis, Coding](/assets/papyrus.webp "Coffee, Cannabis, Coding")
 
-Hopefully, one day, there will be meaningful content here. Until then, enjoy some AI-generated images!
+Welcome, [Grüß Gott](https://en.wikipedia.org/wiki/Gr%C3%BC%C3%9F_Gott)!
