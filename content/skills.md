@@ -26,6 +26,16 @@ I started learning C++ in 1997 when I began using Borland C++ Builder and Micros
  * Boost, Qt5
  * Qt Creator, Eclipse CDT
 
+## WWW Technology
+ * HTML, CSS, XML
+ * JavaScript
+ * 
+
+
+
+
+
+
 ## Other Languages
  * TI-BASIC for 83/83+/83+SE
  * Delphi (Object Pascal)
@@ -33,9 +43,13 @@ I started learning C++ in 1997 when I began using Borland C++ Builder and Micros
  * Zilog Z80
  * CMake and UNIX Makefile
 
+
+
+
+
 ## Web
  * HTML5, CSS3
- * PHP 8
+ * PHP 8, Twig
  * Markdown
  * XML
  * JSON/YAML
