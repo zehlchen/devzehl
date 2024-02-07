@@ -28,31 +28,15 @@ I started learning C++ in 1997 when I began using Borland C++ Builder and Micros
 
 ## WWW Technology
  * HTML, CSS, XML
+ * PHP, Twig
  * JavaScript
- * 
+ * WordPress
+ * Pico CMS
 
-
-
-
-
-
-## Other Languages
+## Useful Languages
  * TI-BASIC for 83/83+/83+SE
  * Delphi (Object Pascal)
  * Visual Basic .NET
- * Zilog Z80
- * CMake and UNIX Makefile
-
-
-
-
-
-## Web
- * HTML5, CSS3
- * PHP 8, Twig
- * Markdown
- * XML
- * JSON/YAML
 
 ## UNIX
 My first UNIX was Linux, and the distribution was Slackware on FAT16, U-MSDOS file system, because it was the most 
@@ -62,7 +46,7 @@ my father use his credit card online to pay for installation media!
  * **RHEL 8, 9** running KDE in 4K! (2020)
  * **Arch Linux** (2015) 
  * CYGWIN and MSYS2 for cross-compiling
- * **FreeBSD** (3.4-RELEASE, 1999) *always compiled from source*
+ * **FreeBSD** (3.4-RELEASE, 1999)
 
 ## Microsoft
  * Windows 2000 Professional/Server
