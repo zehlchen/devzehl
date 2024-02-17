@@ -35,7 +35,6 @@ Builder and Microsoft Visual C++.
 ## Desktop Applications
  * Microsoft **Office** (Word, Excel, PowerPoint, Access, Outlook)
  * Adobe **Creative Suite** (Acrobat, Photoshop, Illustrator, Premiere)
- * 
 
 ## Useful Languages
  * TI-BASIC for 83/83+/83+SE
