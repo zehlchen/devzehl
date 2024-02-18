@@ -6,27 +6,46 @@ Date: 2024-01-21
 Template: index
 ---
 
-# IT & Developer Experience
-I'm an excellent problem solver, and I have substantial experience using software and technology at home and in the labs.
+# Chase Zehl O'Byrne
+## Software Research and Development, Information Technology
+I am an experienced problem solver, programmer, and software technician! 
+ * I'm exceptionally talented at **"considering and utilizing all resources at my disposal"**
+ * I excel as an **independent, self-motivating and goal-oriented team player**
+ * I understand and can work with **a variety of programming paradigms and patterns**
+ * My coworkers have complimented me on my **willingness to work closely with others**
+ * My attention is occupied by **several open areas of interest**
+   * Natural Language Processing
+   * Stream ciphers and other LFSR uses
+   * Compilers and programming language theory
+   * Virtual machine design and implementation
+   * Data obfuscation and steganography
 
 ## C99 and C++11
  * Compilers
    * GCC 12
    * Clang 16
-   * Intel C++ Compiler
-   * Microsoft Visual C++
+   * Intel C++ Compiler (latest)
+   * Microsoft Visual C++ (latest)
  * Libraries
    * GNU C, C++ Standard Library
+   * Standard Template Library
    * Boost C++ Libraries
-   * Qt 6
+   * Qt 6 Libraries
+ * Additional Tools
+   * `flex` and `bison`
+   * `cmake` and `gmake`
+   * `git` and `mercurial`
  * IDEs
    * Visual Studio Code
    * Eclipse CDT
    * Qt Creator
+ * Object-oriented Programming
+ * Template meta-programming
 
 ## WWW & Related Technology
  * HTML, CSS, XML
  * PHP, Twig
+ * Markdown
  * JavaScript
  * WordPress
  * Pico CMS
@@ -38,11 +57,10 @@ I'm an excellent problem solver, and I have substantial experience using softwar
  * Microsoft **Office** (Word, Excel, PowerPoint, Access, Outlook)
  * Adobe **Creative Suite** (Acrobat, Photoshop, Illustrator, Premiere)
 
-## Useful Languages
+## Proprietary Languages
  * TI-BASIC for 83/83+/83+SE
  * Delphi (Object Pascal)
  * Visual Basic .NET
- * Shell Scripting
 
 ## UNIX Competency
 I have extensive experience using Linux and FreeBSD as desktop, server, and mobile platforms.
