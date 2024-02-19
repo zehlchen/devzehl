@@ -13,33 +13,40 @@ I am an experienced problem solver, programmer, and software technician!
  * I excel as an **independent, self-motivating and goal-oriented team player**
  * I understand and can work with **a variety of programming paradigms and patterns**
  * My coworkers have complimented me on my **willingness to work closely with others**
- * My attention is occupied by **several open areas of interest**
-   * Natural Language Processing
-   * Stream ciphers and other LFSR uses
-   * Compilers and programming language theory
-   * Virtual machine design and implementation
-   * Data obfuscation and steganography
+
+## Areas of Interest
+ * Stream ciphers and other LFSR uses
+ * Compilers and programming language theory
+ * Virtual machine design and implementation
+ * Data obfuscation and steganography
+ * Natural Language Processing
 
 ## C99 and C++11
- * Compilers
-   * GCC 12
-   * Clang 16
-   * Intel C++ Compiler (latest)
-   * Microsoft Visual C++ (latest)
- * Libraries
-   * GNU C, C++ Standard Library
-   * Standard Template Library
-   * Boost C++ Libraries
-   * Qt 6 Libraries
- * Additional Tools
-   * `flex` and `bison`
-   * `cmake` and `gmake`
-   * `git` and `mercurial`
- * IDEs
-   * Visual Studio Code
-   * Eclipse CDT
-   * Qt Creator
- * Object-oriented Programming
+### Compilers
+ * **GCC 12**
+   I have the most experience with `gcc` and `g++`.
+ * **Clang 16**
+   Useful for debugging, portability testing, and linting.
+ * **Intel C++ Compiler (latest)**
+   For performance tuning and optimization.
+ * **MSYS2**
+   For cross-compiling.
+### Libraries
+ * GNU C, C++ Standard Library
+ * Standard Template Library
+ * Boost C++ Libraries
+ * Qt 6 & GTK+ Libraries
+### Additional Tools
+ * `flex` and `bison`
+ * `cmake` and `gmake`
+ * `git` and `mercurial`
+### IDEs
+ * Visual Studio Code
+ * Eclipse CDT
+ * Qt Creator
+ * `vim`
+### Related Concepts
+ * Object-oriented programming
  * Template meta-programming
 
 ## WWW & Related Technology
@@ -54,8 +61,9 @@ I am an experienced problem solver, programmer, and software technician!
  * MySQL
 
 ## Desktop Applications
- * Microsoft **Office** (Word, Excel, PowerPoint, Access, Outlook)
+ * Microsoft **Office 365** (Word, Excel, PowerPoint, Access, Outlook)
  * Adobe **Creative Suite** (Acrobat, Photoshop, Illustrator, Premiere)
+ * Google **Documents**
 
 ## Proprietary Languages
  * TI-BASIC for 83/83+/83+SE
