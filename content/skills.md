@@ -22,6 +22,7 @@ I am an experienced problem solver, programmer, and software technician!
  * Natural Language Processing
 
 ## C99 and C++11
+
 ### Compilers
  * **GCC 12**
    I have the most experience with `gcc` and `g++`.
@@ -31,20 +32,24 @@ I am an experienced problem solver, programmer, and software technician!
    For performance tuning and optimization.
  * **MSYS2**
    For cross-compiling.
+
 ### Libraries
  * GNU C, C++ Standard Library
  * Standard Template Library
  * Boost C++ Libraries
  * Qt 6 & GTK+ Libraries
+
 ### Additional Tools
  * `flex` and `bison`
  * `cmake` and `gmake`
  * `git` and `mercurial`
+
 ### IDEs
  * Visual Studio Code
  * Eclipse CDT
  * Qt Creator
  * `vim`
+
 ### Related Concepts
  * Object-oriented programming
  * Template meta-programming
