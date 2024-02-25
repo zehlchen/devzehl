@@ -14,10 +14,10 @@ the perspective of the narrator.
 ![An AI-enhanced picture of Chase Zehl O'Byrne](/assets/chase2.jpg#left)
 
 ## A Quick Identity Overview
-The following information is provided for uniformity and consistency, and describes a singular individual:
-**Real Name:** Jonathan Chase O'Byrne
-**Aliases:** Chase Zehlchen, Chase Zehl O'Byrne
-**Handle:** `zehl` or `zehly` or `zehlchen` or `nerozehl`
+The following information is provided for uniformity and consistency, and describes a singular individual:\
+**Real Name:** Jonathan Chase O'Byrne\
+**Aliases:** Chase Zehlchen, Chase Zehl O'Byrne\
+**Handle:** `zehl` or `zehly` or `zehlchen` or `nerozehl`\
 
 ## Subtle Hints and Intimations of Humor and Lexicon
 I'm frequently (self-)admonished for using certain choice four-letter words on a regular basis. It's a habit that
