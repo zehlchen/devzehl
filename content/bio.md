@@ -16,6 +16,7 @@ the perspective of the narrator.
 ## The Chase Identity
 The following information is provided for uniformity and consistency, and describes a singular individual:
 
+|    |    |
 |---:|:---|
 |**Real Name:** | Jonathan Chase O'Byrne |
 |**Aliases:** | Chase Zehlchen, Chase Zehl O'Byrne |
