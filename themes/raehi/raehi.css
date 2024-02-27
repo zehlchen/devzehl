@@ -146,7 +146,7 @@ h5,
 h6 {
   color: var(--heading-color);
   font-family: "aptly", sans-serif;
- 
+}
 
 @media only screen and (max-width: 768px) {
   .layout {
