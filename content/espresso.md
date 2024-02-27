@@ -1,12 +1,12 @@
 ---
-Title: Coffee 
+Title: Espresso
 Description: Coffee is a daily essential.
 Author: "Chase Zehl O'Byrne"
 Date: 2024-02-04
 Template: index
 ---
 
-# Coffee
+# Espresso Americano
 ![Cannabis Mug](/assets/canna_mug.webp#right)
 
 There really isn't all that much to say about coffee, except that the people who drink it are connected by an

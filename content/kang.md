@@ -1,13 +1,13 @@
 ---
-Title: Coding
+Title: Kang Bang
 Description: The need for logic is palpable.
 Author: "Chase Zehl O'Byrne"
 Date: 2024-02-04
 Template: index
 ---
 
-# Coding
-![Cannabis Circuit](/assets/leafy_circuit.webp "A Leafy Circuit")
+# The Kang Bang!
+![Cannabis Circuit](/assets/leafy_circuit.webp#right)
 
 ## Active Projects (commits within the last 3 months)
  * **RELIX ReScript Dialect** a prototypical prototype programming language

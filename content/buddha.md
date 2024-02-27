@@ -1,13 +1,13 @@
 ---
-Title: Cannabis, the Green Molecule
+Title: Buddha
 Description: The Green Molecule is THC, and it is plentiful and wonderful.
 Author: "Chase Zehl O'Byrne"
 Date: 2024-02-04
 Template: index
 ---
 
-# The Green Molecule (Cannabis)
-![The Green Molecule](/assets/green_plant.webp "The Green Molecule")
+# Respecting the Buddha
+![The Green Molecule](/assets/green_plant.webp#right)
 
 I have never *intentionally* smoked marijuana; I've only ever *accidentally* combusted it. Still, as a 
 responsible consumer, I don't relish the idea of wasting any of the precious cannabinoids, so as a matter
