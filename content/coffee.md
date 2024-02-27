@@ -1,5 +1,5 @@
 ---
-Title: Coffee
+Title: Coffee 
 Description: Coffee is a daily essential.
 Author: "Chase Zehl O'Byrne"
 Date: 2024-02-04
@@ -17,3 +17,5 @@ What is the **global enemy of productivity**? Well, if you're spending company t
 is probably painfully obvious.
 
 *In all things, moderation.*
+
+## BOSS Coffee
