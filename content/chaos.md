@@ -9,3 +9,4 @@ Template: index
 # Chaos Magick
 ![Experiment Chase](/assets/residual_self.webp)
 
+## Paradigm Shifting
