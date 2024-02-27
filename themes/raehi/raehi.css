@@ -120,6 +120,24 @@ body b {
 }
 
 
+.body h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.body h2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.body h3 {
+  font-size: 2rem;
+  font-weight: 700;
+  font-style: normal;
+}
+
 h1,
 h2,
 h3,
@@ -128,9 +146,7 @@ h5,
 h6 {
   color: var(--heading-color);
   font-family: "aptly", sans-serif;
-  font-weight: 700;
-  font-style: normal;
-}
+ 
 
 @media only screen and (max-width: 768px) {
   .layout {
