@@ -87,7 +87,7 @@ body b {
 .header {
   font-family: "t26-carbon", monospace;
   font-size: 3rem;
-  font-weight: 700;
+  font-weight: 800;
   font-style: normal;
   grid-area: header;
 }
