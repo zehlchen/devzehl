@@ -1,21 +1,24 @@
 ---
-Title: Zehl
-Description: A chill place for coffee, cannabis, and coding.
+Title: My Little Demon
+Description: A chill place for thinking.
 Author: "Chase Zehl O'Byrne"
 Date: 2024-01-26
+Updated: 2024-02-27
 Template: index
 ---
 
-# Coffee, Cannabis, and Coding
-![Coffee, Cannabis, Coding](/assets/papyrus.webp#right)
+# My Little Demon Cast A Spell On You!
+![My Little Demon](/assets/mylittledemon.webp#right)
 
 [Salaam](https://en.wikipedia.org/wiki/As-salamu_alaykum) & [Grüß Gott](https://en.wikipedia.org/wiki/Gr%C3%BC%C3%9F_Gott)!
 
-I'm delighted that you've taken the time to visit me on the great WWW. If you should have any feedback, comments, or suggestions,
-I would kindly encourage you to acquaint yourself with my prominently display social media buttons. There are other ways, and
-if you should choose to reach out, rest assured I will do my best to make the connection and respond.
+I'm so delighted that you've taken the time to visit me on the Great Network. You have discovered **My Little Demon**, my 
+personal playground in the cloud. This site functions as a bridge between the idle rantings of my fingers on the keyboard
+and a place where I can give my take on subjects ranging from my perspective as a part-time skeptic to the delusional rants
+of a paranoid former pirate and cybercriminal. *Don't worry, I've been on the wagon for some time now.*
 
-Since I'm paying for the bandwidth, I reserve the right to claim this forum as my own bully pulpit.
+**I have created this establishment as a safe haven for bits of all parity, one and zero alike!**
 
-*Children under the age of eighteen should only view this site with parental consent and supervision. Don't break the law.*
-
+Please rest assured that your participation in this conspiracy (and other such experiments, as they may occur) will be kept
+with the strictest confidence. While I promise not to disclose any of your data to third parties, I can't promise that I'm
+not going to barter your digital soul in a deal with the aforementioned demon. Enjoy responsibly!
