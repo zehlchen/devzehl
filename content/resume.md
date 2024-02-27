@@ -1,9 +1,9 @@
 ---
-Title: Technical Skills & Experience
+Title: Resume
 Description: A brief synopsis of my technical abilities.
 Author: Chase Zehl O'Byrne
 Date: 2024-01-21
-Updated: 2024-02-24
+Updated: 2024-02-25
 Template: index
 ---
 
@@ -17,12 +17,14 @@ Template: index
  * Natural Language Processing
 
 ## C99 and C++11
+I have a lon
 
 ### Compilers
- * **GCC 11/12/13**: I have the most experience with the GNU toolchain.
- * **Clang 16**: Useful for debugging, portability testing, and linting.
- * **Intel C++ Compiler (latest)**: For performance tuning and optimization.
- * **MSYS2**: For Win32 compatibility.
+ * **GCC 11/12/13**
+ * **Clang 16**
+ * **Intel C++ Compiler (2024)**
+ * **Microsoft Visual C++ (2024)**
+ * **MSYS2**:
 
 ### Libraries
  * GNU C, C++ Standard Library
