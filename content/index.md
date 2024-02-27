@@ -15,7 +15,7 @@ Template: index
 I'm so delighted that you've taken the time to visit me on the Great Network. You have discovered **My Little Demon**, my 
 personal playground in the cloud. This site functions as a bridge between the idle rantings of my fingers on the keyboard
 and a place where I can give my take on subjects ranging from my perspective as a part-time skeptic to the delusional rants
-of a paranoid former pirate and cybercriminal. *Don't worry, I've been on the wagon for some time now.*
+of a paranoid former pirate and script-kiddie. *Don't worry, I've been on the wagon for some time now.*
 
 **I have created this establishment as a safe haven for bits of all parity, one and zero alike!**
 
