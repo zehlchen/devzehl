@@ -3,18 +3,18 @@ Title: The Zehl Story
 Description: Summary of useless information about Zehl!
 Author: Chase Zehl O'Byrne
 Date: 2024-01-21
-Updated: 2024-02-25
+Updated: 2024-02-28
 Template: index
 ---
 
 # The Zehl Story
-I have a rather fantastical and disjointed juxtaposition of events to recount, but my memory of them is biased from
-the perspective of the narrator.  
+So these are essentially memoirs or an autobiography, but I don't like either of those words, so I'm going to call 
+it a *story*. And instead of chapters, we'll call the entries what they in fact are: **episodes of reflection**.
 
 ![An AI-enhanced picture of Chase Zehl O'Byrne](/assets/chase2.jpg#right)
 
 ## Preface: The Chase Identity
-The following information is provided for uniformity and consistency, and describes a singular individual:
+The following table all refers to one individual, though each is a different thread in my personality loom.
 
 |                |                                               |
 |---------------:|:----------------------------------------------|
@@ -22,7 +22,7 @@ The following information is provided for uniformity and consistency, and descri
 |   **Aliases:** | Chase Zehlchen, Chase Zehl O'Byrne            |
 |    **Handle:** | `zehl` or `zehly` or `zehlchen` or `nerozehl` |
 
-## Chapter 1: Subtle Hints and Intimations of Humor and Lexicon
+## Episode 1: Subtle Hints and Intimations of Humor and Lexicon [](#ep01)
 I'm frequently (self-)admonished for using certain choice four-letter words on a regular basis. It's a habit that
 I'm trying to kick, so I beg you please bear with me.
 
@@ -35,7 +35,7 @@ If I had to describe my wit, it would be with some obtuse analogy, so I won't. E
 in my life with an eye on the ironic and satirical, and like to draw parallels between my life and a handful of quality 
 *Dad jokes*. I am known to have told at least a dozen *inappropriate* or *mistimed* jokes in my life.
 
-## Chapter 2: Affirming Chronic Social Isolation
+## Episode 2: Affirming Chronic Social Isolation [](#ep02)
 Suffice it to say, I'm not going to go into elaborate detail about my own struggle with mental illness, but I think it
 is worth saying, and repeating loudly, that social isolation is a part of the collateral complications imposed by prolonged
 struggles with serious mental illness. There are a number of ways out of that isolation, and you, captive audience, are
@@ -46,7 +46,7 @@ matter what the diagnosis is, or even if there is one, the struggle is unpalatab
 The gift of sentience, of self-cognition, could be perturbed like a stone into a placid lake. And we all have, in one way
 or another, experienced these wave-like particles of struggle, each with their own unique ripples.
 
-## Chapter 3: A Tale of Cones and Rods
+## Episode 3: A Tale of Cones and Rods [](#ep03)
 I have a diagnosed, rare (1 in 50,000) inherited retinal dystrophy affecting primarily the cone photoreceptors in the
 central region of the retina (the part of the eye that detects light). The progressive nature of the tissue degeneration
 implies I will continue to have problems with acuity and color vision for the foreseeable future. 
@@ -63,3 +63,23 @@ exercise autonomy in mobility.
 As one might expect from such a dystrophy, the ability to perceive color is fundamentally impaired, thus my favorite color 
 is the one that I see the most: any shade of gray. I cannot easily, if at all, identify the color of an object on request. I 
 have to rely on circumlocution and other methods of description when detailing what I believe may be a particular color.
+
+## Episode 4: A Fifth of Courage [](#ep04)
+Trust me when I tell you I have a long, sordid history with *certain spirits in the bottle*, yet I somehow managed to escape 
+that great defeat, and now I am able to extol the benefits of alcohol abstinence. I'm extremely confident in my sobriety, and I 
+don't mind being part of social situations in which alcohol is being consumed. I respect that each adult has to decide for 
+themselves, their level of engagement with intoxicants. Rest assured, I harbor no ill will against those who choose to partake.
+
+There is no respite from the burden of dependence without the *will to do so*. In June 2021, I found myself at a veritable fork
+in the road. My better half saw me through a period of difficult transition that culminated in a vow to never again indulge my
+compulsive tendencies (alcoholism). I testify that it was easier for me to draw a line in the sand and commit to *never again*
+than to try to delude myself into believing I was a passive victim in the whole ordeal and that I was controlling my problem.
+
+When I reached the so-called *zero-hour* or *rock-bottom*, I knew only that I wanted out of that vicious cycle. I conferred with
+my better half, who, with grace, helped me to reconcile my emotions and conclude that, finally seeing the forest for the trees,
+the consequences of inaction were so completely unpalatable as to warrant an unconditional surrender and about-face. I can't say 
+definitely the exact moment that I knew, but once I subconsciously decided to quit, it became infinitely easier to reassure myself
+that I was indeed capable of disarming addiction. 
+
+Each person has within them the ability to create and explore a drastic and pivotal moment in their life -- it's never too late
+to be accountable to yourself for yourself. I offer unwavering support for the realization of one's will.
