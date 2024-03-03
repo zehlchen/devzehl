@@ -22,17 +22,15 @@ having a relationship with cannabis is extremely important, especially if you va
 many misdemeanors and felonies that still apply to offenses involving cannabis. The last thing anyone needs is to
 get jammed up with the authorities over a simple misunderstanding or technicality. 
 
-Please, **mind your manners, your product, and your paraphernalia; don't be an asshole and don't break the law.**
-
 ## Medical Cannabis Certification in Virginia (2024)
 The final result of this process is the issuance of a digital document by the state called a 
 **"CERTIFICATION FOR THE USE OF MEDICAL CANNABIS PRODUCTS"**. 
 
 Medical cannabis cards are available but are no longer required for a **certified patient** to purchase cannabis 
 from a legal dispensary. The certification is valid for one year and is effective immediately. The dispensary will
-have you forward the PDF document to them for their records. Purchasing cannabis *require a valid*
-**Virginia state identification or driver's license** every time you go to the dispensary; you will also be required
-to pay with *cash* or *direct debit* (like an ATM) and yes, there is a surcharge.
+have you forward the PDF document to them for their records. Purchasing cannabis **requires a valid Virginia state identification or driver's**
+every time you go to the dispensary; you will also be required to pay with **cash** or **direct debit** (like an ATM)
+and yes, there is a surcharge.
 
 The certification process is very straightforward and can be done remotely with a properly credentialed nurse 
 practitioner, physician's assistant, or medical doctor (MD/DO). This cannot be just any prescriber, however: they must 
