@@ -28,7 +28,9 @@ The final result of this process is the issuance of a digital document by the st
 
 Medical cannabis cards are available but are no longer required for a **certified patient** to purchase cannabis 
 from a legal dispensary. The certification is valid for one year and is effective immediately. The dispensary will
-have you forward the PDF document to them for their records. Purchasing cannabis **requires a valid Virginia state identification or driver's**
+have you forward the PDF document you obtained from your provider to them for their records.
+
+Purchasing cannabis **requires a valid Virginia state identification or driver's license**
 every time you go to the dispensary; you will also be required to pay with **cash** or **direct debit** (like an ATM)
 and yes, there is a surcharge.
 
