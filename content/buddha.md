@@ -20,7 +20,7 @@ Understanding the legal implications of having a relationship with cannabis is e
 you value your liberty. There are still many misdemeanors and felonies that still apply to offenses involving cannabis. 
 The last thing anyone needs is to get jammed up with the authorities over a simple misunderstanding or technicality. 
 
-![The Gift of Cannabis](/assets/green_plant.webp)
+![The Gift of Cannabis](/assets/green_plant.webp#right)
 
 ## Medical Cannabis Certification in Virginia (2024)
 The final result of this process is the issuance of a digital document by the state called a 
