@@ -43,7 +43,7 @@ conditions. Chances are you already have a condition that could benefit from the
 provide some anecdotal evidence that you are receiving a medical benefit that goes beyond the implied recreational 
 context.
 
-![Green Molecule](/assets/green_god.webp#left)
+![Green Molecule](/assets/green_god.webp#right)
 
 ## Favorite strain hotlinks!
 * [**Blue Gelato**](https://www.leafly.com/strains/blue-gelato) for my flower
@@ -66,4 +66,4 @@ plan to use this vape frequently.
  * [Armored Cap](https://www.dynavap.com/collections/caps) a must-have if you plan on doing this frequently.
  * [Titanium Helix](https://www.dynavap.com/collections/tips) an exquisitely crafted and well-thought upgrade.
 
-![The Gift of Cannabis](/assets/green_plant.webp#center)
+![The Gift of Cannabis](/assets/green_plant.webp#right)
