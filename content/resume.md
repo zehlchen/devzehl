@@ -7,24 +7,22 @@ Updated: 2024-02-25
 Template: index
 ---
 
-# Chase Zehl O'Byrne
+# Chase "Zehl" O'Byrne
 
-## Current Interest
- * Web-based document and content management systems deployment and maintenance
+## Current Academic Interests
  * Stream ciphers, pseudorandom numbers, and linear-feedback shift register design
  * Novel programming languages and their ecosystems, compiler front-end and code generation
  * Virtual stack machine design, implementation, and byte code optimization
  * GPT-based AI systems
 
-## Programming with C99 and C++11
+## Software Development with C & C++
 I have built my experience around writing, adapting, and maintaining terminal-based (console) applications.
 
 ### Compilers
- * **GCC 11/12/13**
- * **Clang 16**
- * **Intel C++ Compiler (2024)**
- * **Microsoft Visual C++ (2024)**
- * **MSYS2**:
+ * **GNU Compiler Collection**
+ * **Clang**
+ * **Intel C++ Compiler**
+ * **Microsoft Visual C++**
 
 ### Libraries
  * GNU C, C++ Standard Library
@@ -53,7 +51,6 @@ I have built my experience around writing, adapting, and maintaining terminal-ba
  * Markdown
  * JavaScript
  * WordPress
- * Pico CMS
  * cPanel
  * NGINX & Apache
  * MySQL
@@ -76,18 +73,13 @@ upgrade, and monitor the mainstream Linux distributions. I am a loyal adherent t
 ### Areas of Expertise
  * Multi-daemon cloud servers (HTTPS/IMAP/SFTP/DNS/MAIL/IRC)
  * Mobile devices (Raspberry Pi, Android)
- * Virtual Machines (VirtualBox, VMWare)
+ * Virtual Machine Systems (VirtualBox, VMWare)
  * NAS/NFS Deployment
  * Vintage Computing
 
 ## Microsoft Software Proficiency
-Most of my recent experience with the Windows platform has been as the end-user or as a developer.
+I can install, upgrade, and maintain Windows servers and workstations.  
  * Windows 2000 Professional/Server
  * Windows XP 32 and 64
  * Windows 7/8/8.1
  * Windows 10/11
-
-## Desktop Applications
- * Microsoft **Office 365** (Word, Excel, PowerPoint, Access, Outlook)
- * Adobe **Creative Suite** (Acrobat, Photoshop, Illustrator, Premiere)
- * Google **Documents**
