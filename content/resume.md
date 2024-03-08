@@ -9,15 +9,15 @@ Template: index
 
 # Chase Zehl O'Byrne
 
-## Areas of Interest
- * Stream ciphers and other LFSR uses
- * Compilers and programming language theory
- * Virtual machine design and implementation
- * Data obfuscation and steganography
- * Natural Language Processing
+## Current Interest
+ * Web-based document and content management systems deployment and maintenance
+ * Stream ciphers, pseudorandom numbers, and linear-feedback shift register design
+ * Novel programming languages and their ecosystems, compiler front-end and code generation
+ * Virtual stack machine design, implementation, and byte code optimization
+ * GPT-based AI systems
 
-## C99 and C++11
-I have a lon
+## Programming with C99 and C++11
+I have built my experience around writing, adapting, and maintaining terminal-based (console) applications.
 
 ### Compilers
  * **GCC 11/12/13**
