@@ -11,7 +11,7 @@ Template: index
 The **Buddha** and the **Green Molecule** refer to **tetrahydrocannabinol** (THC), the psychoactive compound 
 found naturally in *cannabis indica* and *cannabis sativa*.
 
-![The Buddha](/assets/buddha.webp#right)
+![The Buddha](/assets/buddha.webp#center)
 
 ## Cannabis Laws within the Commonwealth of Virginia
 The [Cannabis Control Authority](https://www.cca.virginia.gov/) maintains a website with an abundance of useful
@@ -20,7 +20,7 @@ Understanding the legal implications of having a relationship with cannabis is e
 you value your liberty. There are still many misdemeanors and felonies that still apply to offenses involving cannabis. 
 The last thing anyone needs is to get jammed up with the authorities over a simple misunderstanding or technicality. 
 
-![The Gift of Cannabis](/assets/green_plant.webp#left)
+![The Gift of Cannabis](/assets/green_plant.webp#center)
 
 ## Medical Cannabis Certification in Virginia (2024)
 The final result of this process is the issuance of a digital document by the state called a 
@@ -49,7 +49,7 @@ context.
 * [**Blue Gelato**](https://www.leafly.com/strains/blue-gelato) for my flower
 * [**9 Pound Hammer**](https://www.leafly.com/strains/9-pound-hammer) for my concentrate
 
-![Green Molecule](/assets/green_god.webp#right)
+![Green Molecule](/assets/green_god.webp#center)
 
 ## Shenanigans within the [DynaVerse](https://www.reddit.com/r/Dynavap)
 I am extremely satisfied with my decision to experiment DynaVap's dry herb vaporizers. After nine months of daily use,
