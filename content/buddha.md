@@ -33,9 +33,11 @@ each time you go to the dispensary; you will also be required to pay with **cash
 method is chosen, a surcharge is applied both from the dispensary and your bank.
 
 The certification process is quite straightforward and can be done remotely with a properly licensed nurse 
-practitioner, physician's assistant, or medical doctor (MD/DO). This cannot be just any prescriber, however: they must 
-be credentialed by the Board of Medicine to certify patients for medicinal cannabis use. Most providers who do this
-sort of thing on the regular don't accept insurance, and I've seen appointment prices range between $100 to $150.
+practitioner, physician's assistant, or medical doctor or osteopath. This cannot be just any prescriber, however: 
+they must be **credentialed by the Board of Medicine** to certify patients for medicinal cannabis use. Most providers 
+who do this sort of thing on the regular don't accept insurance, and I've seen appointment prices range between $100 
+and $150. Remember, you will almost certainly need to have obtained some manner of a **medical diagnosis** *before* 
+you make your appointment.
 
 Prepare to provide documentation of the condition for which you are seeking medicinal certification. I provided
 screenshots of my prescription history and pictures of my medicine bottles of the medications used to treat my 
@@ -65,5 +67,3 @@ plan to use this vape frequently.
  **Accessories and add-ons**
  * [Armored Cap](https://www.dynavap.com/collections/caps) a must-have if you plan on doing this frequently.
  * [Titanium Helix](https://www.dynavap.com/collections/tips) an exquisitely crafted and well-thought upgrade.
-
-![The Gift of Cannabis](/assets/green_plant.webp#right)
